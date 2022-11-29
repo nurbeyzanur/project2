@@ -1,4 +1,4 @@
-proje11 klavyeden üç kenarı girilen üçgenin eşkenar,ikizkenar veya çeşitkenar olduğunu bulduran program
+proje11 klavyeden üç kenarı girilen üçgenin eşkenar,ikizkenar veya çeşitkenar olduğunu bulduran program           
 proje12 klavyeden m den  n sayısı alınacak n sayısına göre tek sayıların toplamını bulduran program
 proje13 klavyeden girilen iki pozitif tam sayıyı çarpma oporatörü kullanmadan çarpan program
 proje14 klavyeden girilen n sayısına göre girilen 1 den n e kadar olan sayıların karelerini toplamı hesaplayan program
