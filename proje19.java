@@ -1,4 +1,4 @@
-//klavyeden girilen poziif bi a tamsayısının tam bölenlerini hesaplayıp listeleyen program
+//klavyeden girilen pozitif bir a tamsayısının tam bölenlerini hesaplayıp listeleyen program
 
 package algoritmaprojeleri;
 
