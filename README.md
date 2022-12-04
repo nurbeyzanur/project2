@@ -7,4 +7,4 @@ proje16 Klavyeden girilen x sayısına göre f(x)=x*2-5x+3  fonksiyonun signum f
 proje17 klavyeden girilen pozitif bir tam sayının tersten yazdıran program
 proje18
 proje19 klavyeden girilen pozitif bir a tamsayısının tam bölenlerini hesaplayıp listeleyen program
-proje20
+proje20 Klavueden  eleman sayısı girilen bir kümenin belirtilen kombinasyonlarının sayısını hesaplayan program
