@@ -1,6 +1,6 @@
 
 package algoritmaprojeleri;
-//klavyeden girilen pozitif bir tam sayının tersten yazılmış sayısal değerini elde eden program
+//klavyeden girilen pozitif bir tam sayının tersten yazdıran program
 
 import java.util.Scanner;
 
